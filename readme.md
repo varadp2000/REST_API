@@ -1,31 +1,31 @@
 REST API application with Express with endpoints for CREATE,SEARCH and DETELE
 
-###`Steps to run`
+## Steps to run
 
 
-'''
-Clone Repository
-'''
+
+### Clone Repository
 
 
-###Install node modules
-'''
+
+### Install node modules
+```
 npm install
-'''
+```
 
 
-###Start App
-'''
+### Start App
+```
 node server.js
-'''
+```
 
 
-###On postman open 127.0.0.1:8081
+### On postman open 127.0.0.1:8081
 Screenshots are in /demo
 
 
-###Dependencies
-'''
+### Dependencies
+```
 -expresss
 
 
@@ -39,4 +39,4 @@ Screenshots are in /demo
 
 
 -mongodb
-'''
+```
